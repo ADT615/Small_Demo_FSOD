@@ -1,6 +1,3 @@
-# src/config.py
-# Global config/constants shared across scripts
-
 import torch
 
 SEED = 42
