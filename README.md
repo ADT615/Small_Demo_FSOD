@@ -45,9 +45,4 @@ python src/eval_map50.py
 - `USE_COSINE_CLASSIFIER`: Enable/disable cosine classifier
 - Image size, batch size, and other parameters can be modified in `config.py`
 
-## Notes
-
-- The project uses synthetic data for demonstration
-- Can be extended to real datasets like VisDrone
-- TFA approach helps preserve base knowledge while learning novel classes
 
