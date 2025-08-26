@@ -1,4 +1,3 @@
-# src/train_base.py
 import torch
 from torch.utils.data import DataLoader
 from src.config import (SEED, DEVICE, CLASS_ID_TO_NAME, NUM_CLASSES,
