@@ -1,4 +1,3 @@
-# src/finetune_tfa.py
 import torch, os, random, numpy as np
 from torch.utils.data import DataLoader
 from src.config import (SEED, DEVICE, CLASS_ID_TO_NAME, NUM_CLASSES, K_SHOT_NOVEL,
