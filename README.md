@@ -11,16 +11,6 @@ Implementation of Few-Shot Object Detection using TFA (Two-stage Fine-tuning App
 - Simple mAP@0.5 evaluation
 - Visualization tools
 
-## Requirements
-
-```bash
-torch
-torchvision
-numpy
-matplotlib
-Pillow
-```
-
 ## Project Structure
 
 - `src/`: Source code directory
@@ -60,3 +50,4 @@ python src/eval_map50.py
 - The project uses synthetic data for demonstration
 - Can be extended to real datasets like VisDrone
 - TFA approach helps preserve base knowledge while learning novel classes
+
