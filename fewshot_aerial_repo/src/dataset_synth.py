@@ -1,4 +1,3 @@
-# src/dataset_synth.py
 import numpy as np
 from PIL import Image
 import torch
