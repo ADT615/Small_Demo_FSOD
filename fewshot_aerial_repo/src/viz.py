@@ -1,4 +1,3 @@
-# src/viz.py
 import torch, random, numpy as np
 from src.config import (SEED, DEVICE, CLASS_ID_TO_NAME, NUM_CLASSES, IMG_SIZE, STAGE2_CKPT)
 from src.dataset_synth import SyntheticAerialDataset
